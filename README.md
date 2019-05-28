@@ -1,3 +1,5 @@
+Issue: https://github.com/symfony/symfony/issues/31271
+
 # Reproduce
 
 1) `php -S localhost:8000 public/index.php`
